@@ -2,11 +2,6 @@
 	"name": "website",
 	"version": "1.0.0",
 	"private": true,
-	"homepage": "https://github.com/alii/website",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/alii/website"
-	},
 	"dependencies": {
 		"@headlessui/react": "1.7.7",
 		"@marsidev/react-turnstile": "^0.0.5",
